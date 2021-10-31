@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+🐿 Hello, I'm Yunyeong Kwon.
+🎓 I majored in Aesthetics & Information Science and Culture in Seoul National University.
+
+⚔ Skills ⚔
+FrontEnd
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+BackEnd
+DB/DevOps
+     
+
+
 <!--
 **ChipmunkForLove/ChipmunkForLove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
