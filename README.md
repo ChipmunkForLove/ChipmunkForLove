@@ -9,6 +9,7 @@ FrontEnd
 BackEnd
 <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
 DB/DevOps
+<img src="https://img.shields.io/badge/MongoDB-#47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
      
 
 
