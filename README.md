@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=fee227&height=300&section=header&text=Yunyeong%20Kwon&fontSize=90)
 
 
+
+
 🐿 안녕하세요, 권윤영입니다.  
 🎓 서울대학교에서 미학과 정보문화학을 전공하였습니다.  
 💫 호기심이 많고, 새로운 것들을 빨리 받아들입니다.  
@@ -9,8 +11,9 @@
 
 
 
-
-⚔ Skills ⚔. 
+  
+  
+⚔ **Skills** ⚔
 
 FrontEnd. 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>  
@@ -26,8 +29,8 @@ DB/DevOps.
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
+  
+    
+    
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChipmunkForLove&show_icons=true&theme=radical&title_color=fee227)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-   
