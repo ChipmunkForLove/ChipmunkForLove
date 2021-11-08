@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Yunyeong%20Kwon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=fee227&height=300&section=header&text=Yunyeong%20Kwon&fontSize=90)
 
 
 🐿 안녕하세요, 권윤영입니다.
