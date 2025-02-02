@@ -1,13 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=fee227&height=300&section=header&text=Yunyeong%20Kwon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=fee227&height=300&section=header&text=Yoonyoung%20Kweon&fontSize=90)
 
 
 
 
-🐿  안녕하세요, 권윤영입니다.  
-🎓  서울대학교에서 미학과 정보문화학을 전공하였습니다.  
-💫  호기심이 많고, 새로운 것들을 빨리 받아들입니다.  
-👩🏻‍💻  웹개발에 흥미를 느끼고 공부하고 있습니다.  
-💃  취미로 발레를 하고, 쉴 때는 좋아하는 가수 덕질을 합니다.  
+🐿  Hello, I'm Yoonyoung Kweon
+🎓  I majored Aesthetics and Information Science at Seoul National University.
+👩🏻‍💻  Now, I am working as Front-end Engineer at LINE.
 
 
 
