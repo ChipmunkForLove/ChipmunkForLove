@@ -26,9 +26,3 @@
 **DB/DevOps**
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-
-  
-    
-    
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChipmunkForLove&show_icons=true&theme=radical&title_color=fee227)](https://github.com/anuraghazra/github-readme-stats)
